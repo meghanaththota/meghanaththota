@@ -23,7 +23,7 @@
 | Category    | Technologies                                            |
 | ----------- | --------------------------------------------------------|
 | Programming | core java, java 8 features                              |
-| Database    | SQL Server,oracle sql, plsql                            |
+| Database    | MY SQL,MS SQL SERVERoracle sql, plsql                            |
 | Frontend    | HTML5, CSS3,javaScript,react.js                         |
 | Backend     | JDBC, servlets ,  hibernate(ORM), Exploring Spring Boot |
 | Tools       | Git, GitHub                                             |
